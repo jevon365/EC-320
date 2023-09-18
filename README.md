@@ -15,7 +15,7 @@ Please submit your completed homework assignments by the specified deadlines.
 
 This section contains information about R projects and assignments related to the course.
 
-[R-Files] (R-projects)
+[R-Files](R-projects)
 
 
 These projects will help you apply econometric concepts using R.
